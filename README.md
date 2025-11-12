@@ -37,11 +37,15 @@ The program offers **4 main options** through a menu-driven interface:
 ---
 
 ## 📘 Code Structure
+## 🧩 Task3 Project Structure
+
+```bash
 task3/
 │
-├── PalindromeChecker.java
+├── PalindromeChecker.java       # Console-based Java program to check for palindromes
 │
-└── (Console-based Java program)
+└── README.md                    # Project documentation
+```
 
 ## PALINDROME CHECKER - TASK 3
 ## Created for Owl AI Internship
